@@ -1,5 +1,5 @@
 ![A screenshot of the program.](https://media.discordapp.net/attachments/806726453755379803/1102625597152297042/image.png)
-# 💻 | Discord-Bot-Template-Creator
+# 💻 | DiscordTmpl.
 **Welcome to the Discord Bot Template Creator! This is a console program written in C# with the aim of speeding up the creation of a new bot in Discord.**
 
 **With it, you can choose between some language options (For now only: Python with the Pycord library or JavaScript with the Discord.js library), and create a basic structure of directories and files to quickly start working on your bot.**
